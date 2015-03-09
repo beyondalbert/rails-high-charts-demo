@@ -8,7 +8,7 @@ gem 'rails', '3.2.11'
 gem 'sqlite3'
 gem 'execjs'
 gem 'therubyracer'
-gem 'neqa_high_charts', :git => 'git@github.com:beyondalbert/neqa_high_charts.git'
+gem 'neqa_high_charts'
 
 
 # Gems used only for assets and not required

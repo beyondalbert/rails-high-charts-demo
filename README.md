@@ -16,7 +16,7 @@ rails-high-charts-demo --> generate high charts with rails and neqa_high_charts 
 * add neqa_high_charts gem in Gemfiles
 
 ```ruby
-gem 'neqa_high_charts', :git => 'git@github.com:beyondalbert/neqa_high_charts.git'
+gem 'neqa_high_charts'
 ```
 
 * generate NeqaHighCharts::HighChart object in controller
